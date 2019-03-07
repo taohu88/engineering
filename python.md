@@ -5,7 +5,8 @@
 * dict
   * items, get, []
 * set
-  * in
+  * a & b, a ^ b, a - b
+  * a.update([1,2,3], [4,5])
 * tuple
   * no update
 * defaultdict
