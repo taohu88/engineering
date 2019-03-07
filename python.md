@@ -34,6 +34,7 @@
   * next --> __next__ (magic method)
 * Iterable
   * iter --> __iter__
+* StopIteration  
 
 # Generator
 * yield
