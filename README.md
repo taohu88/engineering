@@ -16,7 +16,7 @@
 * [Bi directional courses](https://www.youtube.com/watch?v=RbQ9ZHzS6ag)
 
 # Message queue
-* Kafka
+* [Kafka](https://www.youtube.com/watch?v=UEg40Te8pnE)
 
 # NO SQL
 
