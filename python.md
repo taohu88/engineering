@@ -7,6 +7,7 @@
 * set
   * a & b, a ^ b, a - b
   * a.update([1,2,3], [4,5])
+  * discard (no raise), remove (raise)
 * tuple
   * no update
 * defaultdict
