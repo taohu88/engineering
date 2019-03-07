@@ -16,7 +16,7 @@
 * [Bi directional courses](https://www.youtube.com/watch?v=RbQ9ZHzS6ag)
 
 # Circuit breaking/Default response fallback/Request collapse
-* Hystrix
+* [Hystrix](https://www.youtube.com/watch?v=0S59yCszYgg)
 * Circuit breaking: Fail fast/exponential backoff retry
 * Default response: Fail gracefully
 * Isolating failure
