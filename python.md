@@ -9,7 +9,7 @@
 * tuple
   * no update
 * defaultdict
-  * defaultdict()
+  * defaultdict(int), defaultdict(list), defaultdict(lambda: 0)
 * deque (FIFO queue/stack)
 * Counter
 * OrderedDict
