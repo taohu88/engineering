@@ -36,6 +36,7 @@
 # Generator
 * yield
 * yield from
+* return stop execution, but doesn't return result
 
 # Exception
 * raise Excetpion("Some things")
