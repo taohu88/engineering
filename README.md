@@ -29,4 +29,4 @@
 * [kerberos explained](https://www.youtube.com/watch?v=2WqZSZ5t0qk)
 
 # Zookeeper
-* Distributed config
+* Distributed config/synchronization
