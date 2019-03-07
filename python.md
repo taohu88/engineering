@@ -24,6 +24,11 @@
 * OrderedDict
 * nametuple (Be cautious, too hacky)
 
+# Boolean check
+* empty list --> false
+* 0 --> false
+* emtpy str --> false
+
 # Class method, static method, property
 * Class method: binding to class
 * static method: not binding to class
