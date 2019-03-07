@@ -31,9 +31,9 @@
 
 # Iterator and Iterable
 * Iterator
-  * next --> __next__ (magic method)
+  * next --> ```__next__``` (magic method)
 * Iterable
-  * iter --> __iter__
+  * iter --> ```__iter__```
 * StopIteration  
 
 # Generator
