@@ -1,6 +1,7 @@
 # Basic Structures
 * list (stack)
   * append, +, remove, pop, len
+  * zip
 * dict
   * items, get, []
 * set
