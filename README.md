@@ -4,7 +4,7 @@
 * [Tweet](https://www.youtube.com/watch?v=wYk0xPP_P_8)
 
 # Sites
-* HackerRank
+* [HackerRank](https://www.hackerrank.com)
 * LeetCode
 * Project Euler
 
