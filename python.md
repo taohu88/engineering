@@ -47,6 +47,6 @@
 * except Exception as e:
 * finally:
 
-# Tip
+# Tips
 * ipthon 
   * %%time
