@@ -15,6 +15,14 @@
 * [Long polling vs websockets](https://stackoverflow.com/questions/12555043/my-understanding-of-http-polling-long-polling-http-streaming-and-websockets)
 * [Bi directional courses](https://www.youtube.com/watch?v=RbQ9ZHzS6ag)
 
+# Message queue
+* Kafka
+
+# NO SQL
+
+# Cache
+* Consistent hashing
+
 # Circuit breaking/Default response fallback/Request collapse
 * [Hystrix](https://www.youtube.com/watch?v=0S59yCszYgg)
 * Circuit breaking: Fail fast/exponential backoff retry/Isolating failure
