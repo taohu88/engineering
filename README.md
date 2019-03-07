@@ -9,8 +9,10 @@
 * Project Euler
 
 # Http long polling and Websockets
-* [Long polling, websockets](https://stackoverflow.com/questions/11077857/what-are-long-polling-websockets-server-sent-events-sse-and-comet)
-* [Long polling websockets](https://stackoverflow.com/questions/12555043/my-understanding-of-http-polling-long-polling-http-streaming-and-websockets)
+* Websockets is bi-directions
+* Http is inherent uni-direction
+* [Long polling vs websockets](https://stackoverflow.com/questions/11077857/what-are-long-polling-websockets-server-sent-events-sse-and-comet)
+* [Long polling vs websockets](https://stackoverflow.com/questions/12555043/my-understanding-of-http-polling-long-polling-http-streaming-and-websockets)
 * [Bi directional courses](https://www.youtube.com/watch?v=RbQ9ZHzS6ag)
 
 # Circuit breaking/Default response fallback/Request collapse
