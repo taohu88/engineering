@@ -16,7 +16,7 @@
 * [Bi directional courses](https://www.youtube.com/watch?v=RbQ9ZHzS6ag)
 
 # Circuit breaking/Default response fallback/Request collapse
-* Hysterix
+* Hystrix
 
 # Logging
 * Logstash
