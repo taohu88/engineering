@@ -30,6 +30,8 @@
 * property: interface used as instance variable
 
 # Iterator and Iterable
+* Iterator
+  * __iter__ (magic method)
 
 # Generator
 * yield
