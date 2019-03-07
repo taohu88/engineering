@@ -30,3 +30,9 @@
 
 # Zookeeper
 * Distributed config/synchronization
+
+# CAP
+
+# Leader election
+
+# Distributed lock
