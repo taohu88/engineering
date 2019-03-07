@@ -28,3 +28,9 @@
 * Class method: binding to class
 * static method: not binding to class
 * property: interface used as instance variable
+
+# Iterator and Iterable
+
+# Generator
+* yield
+* yield from
