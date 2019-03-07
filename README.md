@@ -17,6 +17,9 @@
 
 # Circuit breaking/Default response fallback/Request collapse
 * Hystrix
+* Circuit breaking: Fail fast/exponential backoff retry
+* Default response: Fail gracefully
+* Isolating failure
 
 # Logging
 * Logstash
