@@ -32,6 +32,7 @@
 # Iterator and Iterable
 * Iterator
   * __iter__ (magic method)
+  * __next__
 
 # Generator
 * yield
