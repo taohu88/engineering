@@ -1,14 +1,14 @@
 # Basic Structures
 * list (stack)
-** append, +, remove, pop, len
+  * append, +, remove, pop, len
 * dict
-** items, get, []
+  * items, get, []
 * set
-** in
+  * in
 * tuple
-** no update
+  * no update
 * defaultdict
-** 
+  * defaultdict()
 * deque (FIFO queue/stack)
 * Counter
 * OrderedDict
