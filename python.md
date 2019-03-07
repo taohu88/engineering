@@ -43,6 +43,6 @@
 
 # Exception
 * raise Excetpion("Some things")
-* try
-* except (Exception as e):
-* finally
+* try:
+* except Exception as e:
+* finally:
