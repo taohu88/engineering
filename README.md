@@ -17,9 +17,9 @@
 
 # Circuit breaking/Default response fallback/Request collapse
 * [Hystrix](https://www.youtube.com/watch?v=0S59yCszYgg)
-* Circuit breaking: Fail fast/exponential backoff retry
+* Circuit breaking: Fail fast/exponential backoff retry/Isolating failure
 * Default response: Fail gracefully
-* Isolating failure
+* Collapse requests
 
 # Logging
 * Logstash
@@ -27,3 +27,6 @@
 
 # Authentication
 * [kerberos explained](https://www.youtube.com/watch?v=2WqZSZ5t0qk)
+
+# Zookeeper
+* Distributed config
