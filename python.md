@@ -22,6 +22,10 @@
   * rotate(useful)
   
 * Counter
+  * Counter('abc'), Counter(a=1, b=2)
+  * update (useful)
+  * subtract
+  * most_common (useful)
 * OrderedDict
 * nametuple (Be cautious, too hacky)
 
