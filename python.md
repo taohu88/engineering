@@ -34,3 +34,7 @@
 # Generator
 * yield
 * yield from
+
+# Exception
+* raise Excetpion("Some things")
+* catch (Exception as e):
