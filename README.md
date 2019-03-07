@@ -21,3 +21,6 @@
 # Logging
 * Logstash
 * OpenTSDB
+
+# Authentication
+* [kerberos explained](https://www.youtube.com/watch?v=2WqZSZ5t0qk)
