@@ -36,7 +36,7 @@
 # Authentication
 * [kerberos explained](https://www.youtube.com/watch?v=2WqZSZ5t0qk)
 * [OAuth 2.0 and OpenID Connect](https://www.youtube.com/watch?v=996OiexHze0)
-* Front channel and backend channel
+* Frontend channel and backend channel
 
 # Zookeeper
 * Distributed config/synchronization
