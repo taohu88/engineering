@@ -8,7 +8,7 @@
 * LeetCode
 * Project Euler
 
-# Http long polling and Websockets
+# Bi-directional communication (Http long polling and Websockets)
 * Websockets is bi-directions
 * Http is inherent uni-direction
 * [Long polling vs websockets](https://stackoverflow.com/questions/11077857/what-are-long-polling-websockets-server-sent-events-sse-and-comet)
