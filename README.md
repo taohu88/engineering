@@ -34,10 +34,12 @@
 * OpenTSDB
 
 # Authentication
+* You are who you claim to be
 * [kerberos explained](https://www.youtube.com/watch?v=2WqZSZ5t0qk)
 * OpenID (Authentication)
 
 # Authorization
+* Grant access
 * [OAuth 2.0 and OpenID Connect](https://www.youtube.com/watch?v=996OiexHze0)
 * Frontend channel and backend channel
 
