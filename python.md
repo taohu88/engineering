@@ -55,3 +55,9 @@
 # Tips
 * ipthon 
   * %%time
+
+# Numpy
+* Creation
+  * np.arange(10)
+  * np.zeros(10, dtype=np.int32)
+  * np.random.normal((3, 2))
