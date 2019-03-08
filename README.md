@@ -34,7 +34,7 @@
 * OpenTSDB
 
 # Authentication
-* You are who you claim to be
+* You are whom you claim to be
 * [kerberos explained](https://www.youtube.com/watch?v=2WqZSZ5t0qk)
 * OpenID (Authentication)
 
