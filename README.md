@@ -50,10 +50,10 @@
   * Leader election
   * Distributed locking and latches
 
-# CAP
-
 # Leader election
 * [The Paxos Algorithm](https://www.youtube.com/watch?v=d7nAGI_NZPk)
+* Raft
+* Zookeeper
 
 # Distributed lock
 * [Using Distributed Locking to Build Reliable Systems](https://www.youtube.com/watch?v=MDuagr729aU)
