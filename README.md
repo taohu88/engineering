@@ -44,10 +44,11 @@
 # Zookeeper
 * Distributed config/synchronization
 * [Helix](https://www.youtube.com/watch?v=mDZjM0CmxOE)
-* Distributed config
-* Group management
-* Leader election
-* Distributed locking and latches
+* Usa cases:
+  * Distributed config
+  * Group management
+  * Leader election
+  * Distributed locking and latches
 
 # CAP
 
