@@ -49,6 +49,9 @@
   * Group management
   * Leader election (app with lowest val)
   * Distributed locking and latches
+* System on top of it
+  * Curator
+  * Exhibitor
 
 # Leader election
 * [The Paxos Algorithm](https://www.youtube.com/watch?v=d7nAGI_NZPk)
