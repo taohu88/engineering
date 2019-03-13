@@ -43,6 +43,7 @@
 
 # Zookeeper
 * Distributed config/synchronization
+* [Helix](Distributed system goodies: Zookeeper, Helix and Kafka)
 
 # CAP
 
