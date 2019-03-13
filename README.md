@@ -43,7 +43,11 @@
 
 # Zookeeper
 * Distributed config/synchronization
-* [Helix](Distributed system goodies: Zookeeper, Helix and Kafka)
+* [Helix](https://www.youtube.com/watch?v=mDZjM0CmxOE)
+* Distributed config
+* Group management
+* Leader election
+* Distributed locking and latches
 
 # CAP
 
