@@ -53,3 +53,7 @@
 * [Using Distributed Locking to Build Reliable Systems](https://www.youtube.com/watch?v=MDuagr729aU)
 * Ringpop
 * Gossip alg
+* Uber example
+  * DLM
+  * Helix
+  * Zookeeper
