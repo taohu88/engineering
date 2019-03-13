@@ -47,7 +47,7 @@
 * Usa cases:
   * Distributed config
   * Group management
-  * Leader election
+  * Leader election (app with lowest val)
   * Distributed locking and latches
 
 # Leader election
