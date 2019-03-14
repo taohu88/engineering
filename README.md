@@ -31,7 +31,7 @@
 
 # Logging
 * Logstash
-* OpenTSDB
+* [OpenTSDB](https://www.youtube.com/watch?v=gOJxLaz4hk8)
 
 # Authentication (You are whom you claim to be)
 * [kerberos explained](https://www.youtube.com/watch?v=2WqZSZ5t0qk)
