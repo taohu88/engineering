@@ -58,6 +58,7 @@
 * Raft
 * Zookeeper
 * [Ring Leader Election Alg](https://www.youtube.com/watch?v=s0JCKUV-XXQ)
+* [Bully alg](https://www.youtube.com/watch?v=xaISZOQ-PWY)
 
 # Distributed lock
 * [Using Distributed Locking to Build Reliable Systems](https://www.youtube.com/watch?v=MDuagr729aU)
