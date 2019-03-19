@@ -3,6 +3,9 @@
 * [Netflix](https://www.youtube.com/watch?v=psQzyFfsUGU)
 * [Tweet](https://www.youtube.com/watch?v=wYk0xPP_P_8)
 
+# ER
+* [ER](https://www.youtube.com/watch?v=QpdhBUYk7Kk)
+
 # Sites
 * [HackerRank](https://www.hackerrank.com)
 * LeetCode
