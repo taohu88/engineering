@@ -76,3 +76,4 @@
 
 # Proxy
 * [Reverse Proxy](https://en.wikipedia.org/wiki/Reverse_proxy)
+* [nginx](https://www.nginx.com/resources/glossary/reverse-proxy-server/)
