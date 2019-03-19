@@ -73,3 +73,6 @@
   
 # Cluster management
 * Helix
+
+# Proxy
+* [Reverse Proxy](https://en.wikipedia.org/wiki/Reverse_proxy)
