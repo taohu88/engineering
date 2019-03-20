@@ -5,7 +5,7 @@
 # Protocol
 * [Http]
 * [XMPP](https://www.youtube.com/watch?v=gbeS8BwwM-M&list=PLQMs5svASiXPy6qdP8y0QyF6Vz1RXdQdN&index=2)
-* [Gossip](https://www.youtube.com/watch?v=QQ2n1UX3Qwg)
+* [Gossip](https://www.youtube.com/watch?v=FuP1Fvrv6ZQ)
 
 # ER
 * [ER](https://www.youtube.com/watch?v=QpdhBUYk7Kk)
