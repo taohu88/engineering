@@ -4,7 +4,7 @@
 
 # Protocol
 * [Http]
-* [XMPP](https://www.youtube.com/watch?v=6YhMOFS04kA)
+* [XMPP](https://www.youtube.com/watch?v=gbeS8BwwM-M&list=PLQMs5svASiXPy6qdP8y0QyF6Vz1RXdQdN&index=2)
 
 # ER
 * [ER](https://www.youtube.com/watch?v=QpdhBUYk7Kk)
