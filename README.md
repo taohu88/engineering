@@ -2,6 +2,10 @@
 * [Netflix](https://www.youtube.com/watch?v=psQzyFfsUGU)
 * [Tweet](https://www.youtube.com/watch?v=wYk0xPP_P_8)
 
+# Protocol
+* [Http]
+* [XMPP](https://www.youtube.com/watch?v=6YhMOFS04kA)
+
 # ER
 * [ER](https://www.youtube.com/watch?v=QpdhBUYk7Kk)
 
