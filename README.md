@@ -78,4 +78,4 @@
 * [nginx](https://www.nginx.com/resources/glossary/reverse-proxy-server/)
 
 # Stories
-* [How facebook prepare messages for new year](https://spectrum.ieee.org/tech-talk/computing/software/how-facebooks-software-engineers-prepare-messenger-for-new-years-eve)
+* [How facebook prepare messager for new year eve](https://spectrum.ieee.org/tech-talk/computing/software/how-facebooks-software-engineers-prepare-messenger-for-new-years-eve)
