@@ -87,5 +87,8 @@
 * [Reverse Proxy](https://en.wikipedia.org/wiki/Reverse_proxy)
 * [nginx](https://www.nginx.com/resources/glossary/reverse-proxy-server/)
 
+# Distributed Queue
+* [Distributed Queue](https://www.youtube.com/watch?v=iJLL-KPqBpM&feature=youtu.be)
+
 # Stories
 * [How facebook prepare messager for new year eve](https://spectrum.ieee.org/tech-talk/computing/software/how-facebooks-software-engineers-prepare-messenger-for-new-years-eve)
