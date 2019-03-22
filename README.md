@@ -7,7 +7,10 @@
 * [XMPP](https://www.youtube.com/watch?v=gbeS8BwwM-M&list=PLQMs5svASiXPy6qdP8y0QyF6Vz1RXdQdN&index=2)
 * [Gossip](https://www.youtube.com/watch?v=FuP1Fvrv6ZQ)
 * [Gossip papers](https://paperswelove.org/2016/video/felix-lopez-introduction-to-gossip-protocols/)
+
+# Security
 * [TLS](https://www.youtube.com/watch?v=VzWqnT5dErI)
+* [CA](https://www.youtube.com/watch?v=heacxYUnFHA)
 
 # ER
 * [ER](https://www.youtube.com/watch?v=QpdhBUYk7Kk)
