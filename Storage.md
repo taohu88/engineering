@@ -2,7 +2,7 @@
 * Authentication/Access control
   * IAM User
   * Role
-  * Group
+  * Group contains many users
   * Policy
 * Bucket
 * Object Key
