@@ -3,7 +3,8 @@
   * Object
   * Object with version
   * Write Once and Read Many
-  * Lifecycle management
+  * Auto deletion: Lifecycle management
+  * Auto Archive
 * Authentication/Access control
   * Policy: Bucket, User
   * ACL: Coarse grained
