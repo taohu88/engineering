@@ -6,11 +6,16 @@
   * Group contains many users
   * Role
   * Bucket
-* Object Key
-  * Partition by prefix
+* Multi-Factor Authentication
+  * 
 * Object Meta
+  * Partition by prefix of key
   * Time: Creation/Access
   * Tags for business logic
+* Version
+  * Bucket level
+  * Object level
+  * Cross region replicated
 * Storage classes
   * Standard (Durability 11 9s and 4 9s availability)
   * Reduced Redundancy (Durability 4 9s and 4 9s availability)
