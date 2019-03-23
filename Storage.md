@@ -12,6 +12,8 @@
   * Time: Creation/Access
   * Tags for business logic
 * Storage classes
+  * Standard (Durability 11 9s and 4 9s availability)
+  * Reduced Redundancy (Durability 4 9s and 4 9s availability)
   * Glacier
   * Deep Glacier
 * Lifecycle management
