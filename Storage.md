@@ -19,6 +19,7 @@
 * Lifecycle management
   * auto archive
 * Encrption
+  * S3 Encryption Client
 
 # Distributed FS
 * [HDFS](https://www.youtube.com/watch?v=GJYEsEEfjvk&t=616s)
