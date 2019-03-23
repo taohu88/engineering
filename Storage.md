@@ -1,10 +1,10 @@
 # Object Storage [S3](https://www.youtube.com/watch?v=VC0k-noNwOU)
 * Authentication/Access control
+  * Policy: Bucket, User
   * IAM User
-  * Role
   * Group contains many users
-  * Policy
-* Bucket
+  * Role
+  * Bucket
 * Object Key
   * Partition by prefix
 * Object Meta
