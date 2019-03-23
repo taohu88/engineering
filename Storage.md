@@ -21,8 +21,8 @@
   * Reduced Redundancy (Durability 4 9s and 4 9s availability)
   * Glacier
   * Glacier Deep
-* Lifecycle management
-  * auto archive
+  * Lifecycle management
+    * auto archive
 * Encrption
   * Client: S3 Encryption Client
   * Server
