@@ -20,7 +20,10 @@
   * auto archive
 * Encrption
   * Client: S3 Encryption Client
-  * Server: S3 Key Management
+  * Server
+    * SSE-S: Amazon
+    * SSE-C: Client
+    * SSE-KMS: AWS KMS
 
 # Distributed FS
 * [HDFS](https://www.youtube.com/watch?v=GJYEsEEfjvk&t=616s)
