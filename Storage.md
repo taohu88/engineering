@@ -21,3 +21,4 @@
 * [HDFS](https://www.youtube.com/watch?v=GJYEsEEfjvk&t=616s)
   * NamedNode
   * DataNode
+ * GFS
