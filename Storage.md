@@ -6,8 +6,7 @@
   * Group contains many users
   * Role
   * Bucket
-* Multi-Factor Authentication
-  * 
+* [Multi-Factor Authentication](https://www.youtube.com/watch?v=07mRDyydCNY)
 * Object Meta
   * Partition by prefix of key
   * Time: Creation/Access
