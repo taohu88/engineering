@@ -24,6 +24,9 @@
     * SSE-S: Amazon
     * SSE-C: Client
     * SSE-KMS: AWS KMS
+* Log
+* Metrics
+  * CloudWatch
 
 # Distributed FS
 * [HDFS](https://www.youtube.com/watch?v=GJYEsEEfjvk&t=616s)
