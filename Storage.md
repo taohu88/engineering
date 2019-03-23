@@ -6,6 +6,8 @@
   * Group
   * Policy
 * Bucket
+* Object Key
+  * Partition by prefix
 * Object Meta
   * Time: Creation/Access
   * Tags for business logic
