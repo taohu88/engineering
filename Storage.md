@@ -18,6 +18,7 @@
   * Glacier Deep
 * Lifecycle management
   * auto archive
+* Encrption
 
 # Distributed FS
 * [HDFS](https://www.youtube.com/watch?v=GJYEsEEfjvk&t=616s)
