@@ -1,5 +1,4 @@
-# Object Storage S3
-* [S3](https://www.youtube.com/watch?v=VC0k-noNwOU)
+# Object Storage [S3](https://www.youtube.com/watch?v=VC0k-noNwOU)
 * Authentication/Access control
   * IAM User
   * Role
