@@ -1,4 +1,9 @@
 # Object Storage [S3](https://www.youtube.com/watch?v=VC0k-noNwOU)
+* Use cases
+  * Object
+  * Object with version
+  * Write Once and Read Many
+  * Lifecycle management
 * Authentication/Access control
   * Policy: Bucket, User
   * ACL: Coarse grained
@@ -22,6 +27,7 @@
   * Glacier Deep
   * Lifecycle management
     * auto archive
+    * auto delete
 * Encrption
   * Client: S3 Encryption Client
   * Server
