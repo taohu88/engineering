@@ -1,6 +1,7 @@
 # Object Storage [S3](https://www.youtube.com/watch?v=VC0k-noNwOU)
 * Authentication/Access control
   * Policy: Bucket, User
+  * ACL: Coarse grained
   * IAM User
   * Group contains many users
   * Role
