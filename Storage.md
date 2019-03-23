@@ -14,6 +14,8 @@
 * Storage classes
   * Glacier
   * Deep Glacier
+* Lifecycle management
+  * auto archive
 
 # Distributed FS
 * [HDFS](https://www.youtube.com/watch?v=GJYEsEEfjvk&t=616s)
