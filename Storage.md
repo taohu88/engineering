@@ -46,7 +46,16 @@
   * CloudWatch
 
 # Distributed FS
+* Use cases
+  * Large files
 * [HDFS](https://www.youtube.com/watch?v=GJYEsEEfjvk&t=616s)
-  * NamedNode
+  * Single NamedNode
   * DataNode
  * GFS
+   * Single Master
+   * Chunk Servers
+   * Replicas
+   * Master monitors Chunk Servers
+   * Peroidical Replicas/Garbage clean
+   * Lock is relative easier with single master
+   * Master log for reconstruct state when failed
