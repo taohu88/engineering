@@ -15,10 +15,10 @@
   * Bucket
 * [Multi-Factor Authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication)
   * [Video](https://www.youtube.com/watch?v=07mRDyydCNY)
-  * Knowledge
-  * Posession
-  * Inherent
-  * Location
+  * Knowledge: PIN/Secure Answer
+  * Posession: Token/Phone
+  * Inherent: FingerPrint/Iris/Face
+  * Location: Company network
 * Object Meta
   * Partition by prefix of key
   * Time: Creation/Access
