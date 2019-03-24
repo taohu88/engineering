@@ -5,6 +5,7 @@
   * Write Once and Read Many
   * Auto deletion: Lifecycle management
   * Auto archive
+  * Static Website Hosting
 * Authentication/Access control
   * Policy: Bucket, User
   * ACL: Coarse grained
