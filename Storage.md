@@ -13,7 +13,12 @@
   * Group contains many users
   * Role
   * Bucket
-* [Multi-Factor Authentication](https://www.youtube.com/watch?v=07mRDyydCNY)
+* [Multi-Factor Authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication)
+  * [Video](https://www.youtube.com/watch?v=07mRDyydCNY)
+  * Knowledge
+  * Posession
+  * Inherent
+  * Location
 * Object Meta
   * Partition by prefix of key
   * Time: Creation/Access
