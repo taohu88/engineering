@@ -1,3 +1,4 @@
+# [NO SQL](https://www.youtube.com/watch?v=qI_g07C_Q5I)
 # BigTable
 * Physical structure
   * Only save: Key -- Value
