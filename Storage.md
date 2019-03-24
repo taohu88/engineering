@@ -59,3 +59,10 @@
    * Recover when chunk server failed
    * Lock is relative easier with single master
    * Peroidical Replicas/Garbage clean
+   * Read
+     * Query master for chunk servers
+     * pick up chunk server to read
+   * Write
+     * Query master for chunk servers (primary replicas)
+     * Chain upload: upload to the closest chunkserver, then that server to other servers
+     * Tell prrimary to write, then primary kicks replica writing
