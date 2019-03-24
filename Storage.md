@@ -54,8 +54,8 @@
  * GFS
    * Single Master
    * Chunk Servers
-   * Replicas
    * Master monitors Chunk Servers
-   * Peroidical Replicas/Garbage clean
+   * Master log for reconstruction and Shallow Master
+   * Recover when chunk server failed
    * Lock is relative easier with single master
-   * Master log for reconstruct state when failed
+   * Peroidical Replicas/Garbage clean
