@@ -1,11 +1,6 @@
 # Designs
 * [Netflix](https://www.youtube.com/watch?v=psQzyFfsUGU)
 * [Tweet](https://www.youtube.com/watch?v=wYk0xPP_P_8)
-# Protocol
-* Http
-* [XMPP](https://www.youtube.com/watch?v=gbeS8BwwM-M&list=PLQMs5svASiXPy6qdP8y0QyF6Vz1RXdQdN&index=2)
-* [Gossip](https://www.youtube.com/watch?v=FuP1Fvrv6ZQ)
-* [Gossip papers](https://paperswelove.org/2016/video/felix-lopez-introduction-to-gossip-protocols/)
 # System overall
 * Low level storage: Distributed File System
   * HDFS
@@ -33,19 +28,43 @@
   * [Kafka](https://www.youtube.com/watch?v=UEg40Te8pnE)
 * Logging
   * Logstash
-  * [OpenTSDB](https://www.youtube.com/watch?v=gOJxLaz4hk8)  
+  * [OpenTSDB](https://www.youtube.com/watch?v=gOJxLaz4hk8)
+
+# Design method: ER
+* [ER](https://www.youtube.com/watch?v=QpdhBUYk7Kk)
+# Algs: Leader election
+* [The Paxos Algorithm](https://www.youtube.com/watch?v=d7nAGI_NZPk)
+* Raft
+* Zookeeper
+* [Ring Leader Election Alg](https://www.youtube.com/watch?v=s0JCKUV-XXQ)
+* [Bully alg](https://www.youtube.com/watch?v=xaISZOQ-PWY)
+# Algs: Distributed lock
+* [Using Distributed Locking to Build Reliable Systems](https://www.youtube.com/watch?v=MDuagr729aU)
+* Ringpop
+* Gossip alg
+* Uber DLM example
+  * Helix
+  * Zookeeper
+# Zookeeper
+* Distributed config/synchronization
+* [Helix](https://www.youtube.com/watch?v=mDZjM0CmxOE)
+* Usa cases:
+  * Distributed config
+  * Group management
+  * Leader election (app with lowest val)
+  * Distributed locking and latches
+* System on top of it
+  * Curator
+  * Exhibitor
+# Protocol
+* Http
+* [XMPP](https://www.youtube.com/watch?v=gbeS8BwwM-M&list=PLQMs5svASiXPy6qdP8y0QyF6Vz1RXdQdN&index=2)
+* [Gossip](https://www.youtube.com/watch?v=FuP1Fvrv6ZQ)
+* [Gossip papers](https://paperswelove.org/2016/video/felix-lopez-introduction-to-gossip-protocols/)
 
 # Encryption/Security
 * [TLS](https://www.youtube.com/watch?v=VzWqnT5dErI)
 * [CA](https://www.youtube.com/watch?v=heacxYUnFHA)
-
-# ER
-* [ER](https://www.youtube.com/watch?v=QpdhBUYk7Kk)
-
-# Sites
-* [HackerRank](https://www.hackerrank.com)
-* LeetCode
-* Project Euler
 
 # Bi-directional communication (Http long polling and Websockets)
 * Websockets is bi-directions
@@ -58,35 +77,8 @@
 * Circuit breaking: Fail fast/exponential backoff retry/Isolating failure
 * Default response: Fail gracefully
 * Collapse requests
-# Zookeeper
-* Distributed config/synchronization
-* [Helix](https://www.youtube.com/watch?v=mDZjM0CmxOE)
-* Usa cases:
-  * Distributed config
-  * Group management
-  * Leader election (app with lowest val)
-  * Distributed locking and latches
-* System on top of it
-  * Curator
-  * Exhibitor
-# Leader election
-* [The Paxos Algorithm](https://www.youtube.com/watch?v=d7nAGI_NZPk)
-* Raft
-* Zookeeper
-* [Ring Leader Election Alg](https://www.youtube.com/watch?v=s0JCKUV-XXQ)
-* [Bully alg](https://www.youtube.com/watch?v=xaISZOQ-PWY)
-
-# Distributed lock
-* [Using Distributed Locking to Build Reliable Systems](https://www.youtube.com/watch?v=MDuagr729aU)
-* Ringpop
-* Gossip alg
-* Uber DLM example
-  * Helix
-  * Zookeeper
-  
 # Cluster management
 * Helix
-
 # Proxy
 * [Reverse Proxy](https://en.wikipedia.org/wiki/Reverse_proxy)
 * [nginx](https://www.nginx.com/resources/glossary/reverse-proxy-server/)
@@ -96,3 +88,8 @@
 
 # Stories
 * [How facebook prepare messager for new year eve](https://spectrum.ieee.org/tech-talk/computing/software/how-facebooks-software-engineers-prepare-messenger-for-new-years-eve)
+
+# Sites
+* [HackerRank](https://www.hackerrank.com)
+* LeetCode
+* Project Euler
