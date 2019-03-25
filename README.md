@@ -1,7 +1,9 @@
-# Designs
+# Design case study
 * [Netflix](https://www.youtube.com/watch?v=psQzyFfsUGU)
 * [Tweet](https://www.youtube.com/watch?v=wYk0xPP_P_8)
-# System overall
+# Design method: ER
+* [ER](https://www.youtube.com/watch?v=QpdhBUYk7Kk)
+# System basic components
 * Low level storage: Distributed File System
   * HDFS
   * GFS
@@ -29,9 +31,6 @@
 * Logging
   * Logstash
   * [OpenTSDB](https://www.youtube.com/watch?v=gOJxLaz4hk8)
-
-# Design method: ER
-* [ER](https://www.youtube.com/watch?v=QpdhBUYk7Kk)
 # Algs: Leader election
 * [The Paxos Algorithm](https://www.youtube.com/watch?v=d7nAGI_NZPk)
 * Raft
