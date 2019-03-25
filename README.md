@@ -7,15 +7,18 @@
 * [Gossip](https://www.youtube.com/watch?v=FuP1Fvrv6ZQ)
 * [Gossip papers](https://paperswelove.org/2016/video/felix-lopez-introduction-to-gossip-protocols/)
 # System overall
-* Distributed File System
+* Low level storage: Distributed File System
   * HDFS
   * GFS
-* No SQL
+* High level storage: No SQL
   * Key-value: redis, riak
   * Object: S3
   * Document: mongoDB, CounchDB
   * Column base: HBase, Cassandra
-* SQL
+* High level storage: SQL
+  * Oracle
+  * MySQL
+  * SQLServer
 * Computation
   * MapReduce
 * Cache
