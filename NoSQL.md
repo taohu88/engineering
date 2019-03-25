@@ -14,6 +14,11 @@
     * Filter
     * Full scan
     * Export
+* Design pattern
+  * Col promoted to row key
+  * Wide col to deep table
+* Design challenge
+  * row key design is challenging
 * Physical structure
   * Only save: Key -- Value
   * BigTable/STable/SSTable
