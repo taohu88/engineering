@@ -10,6 +10,6 @@
   * MTable
   * Log
 * Logical view
-  * (Row, col, timestamp):value to physical Key: value
+  * (row key, col family:col qualify, timestamp) --> physical Key: value
  # HBase
  # Cassandra
