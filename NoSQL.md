@@ -39,5 +39,7 @@
 * Tag
 * Design pattern
   * Use cases: important
+  * NoSQL is inflexible, but efficient
+  * ideal 1 app <--> 1 table
   
   
