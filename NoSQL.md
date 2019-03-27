@@ -29,5 +29,9 @@
   * Log
 * Logical view
   * (row key, col family:col qualify, timestamp) --> physical Key: value
- # HBase
- # Cassandra
+
+# DynamoDB
+* Partition Key
+* Sort key
+* Global sort key
+* TTL
