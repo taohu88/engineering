@@ -30,7 +30,7 @@
 * Logical view
   * (row key, col family:col qualify, timestamp) --> physical Key: value
 
-# DynamoDB
+# [DynamoDB](https://www.youtube.com/watch?v=HaEPXoXVf2k)
 * Partition Key
 * Sort key
 * Global sort key
