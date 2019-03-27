@@ -2,3 +2,5 @@
 * Public network
 * Private network
 * VGW --> Your data center
+
+# Routing
