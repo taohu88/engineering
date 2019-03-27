@@ -66,3 +66,5 @@
      * Query master for chunk servers (primary replicas)
      * Chain upload: upload to the closest chunkserver, then that server to other servers
      * Tell prrimary to write, then primary kicks replica writing
+     
+# AWS Redshift Data warehouse     
