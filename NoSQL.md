@@ -33,8 +33,8 @@
 # [DynamoDB](https://www.youtube.com/watch?v=HaEPXoXVf2k)
 * Partition Key
 * Sort key
-* Local secondary index
-* Global secondary index
+* Local secondary index: Local Partition Key
+* Global secondary index: Has its partition key and sorted key
 * TTL
 * Tag
 * Design pattern
