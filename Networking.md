@@ -4,3 +4,11 @@
 * VGW --> Your data center
 
 # Routing
+
+# DNS
+
+# HTTP
+
+# TLS
+
+# Websocket
