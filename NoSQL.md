@@ -35,3 +35,4 @@
 * Sort key
 * Global sort key
 * TTL
+* Tag
