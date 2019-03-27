@@ -1,7 +1,10 @@
 # [AWS Lambda](https://www.youtube.com/watch?v=97q30JjEq9Y)
-* Trigger
-* Code without worrying hardware
-* Lanaguages: java, python, node.js, c#, go
+* Usages
+  * Trigger
+* Benefits
+  * Code without worrying hardware
+  * Lanaguages: java, python, node.js, c#, go
+  * only charge for time it runs
 * Concepts
   * Container
   
