@@ -36,3 +36,5 @@
 * Global sort key
 * TTL
 * Tag
+* Design pattern
+  
