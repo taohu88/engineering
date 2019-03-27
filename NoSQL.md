@@ -31,7 +31,7 @@
   * (row key, col family:col qualify, timestamp) --> physical Key: value
 
 # [DynamoDB](https://www.youtube.com/watch?v=HaEPXoXVf2k)
-* Partition Key: single byte
+* Partition Key
 * Sort key
 * Local secondary index
 * Global secondary index
