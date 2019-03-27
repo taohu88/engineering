@@ -1,9 +1,10 @@
 # [AWS Lambda](https://www.youtube.com/watch?v=97q30JjEq9Y)
 * Trigger
 * Code without worrying hardware
-* Lanaguages: java, python, node.js, c#, go, 
-
-
+* Lanaguages: java, python, node.js, c#, go
+* Concepts
+  * Container
+  
 # MapReduce
 * Use case
   * Process large data
