@@ -5,7 +5,7 @@
 
 # Routing
 
-# DNS
+# [DNS](https://en.wikipedia.org/wiki/Domain_Name_System)
 
 # [HTTP](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
 
