@@ -9,6 +9,7 @@
 * [Route 53](https://www.youtube.com/watch?v=e2xLV7pCOLI)
 
 # [HTTP](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
+* [Http Header](https://www.youtube.com/watch?v=riPSW5P127M)
 
 # TLS
 
