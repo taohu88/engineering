@@ -30,3 +30,4 @@
   * Master
   * Worker: Map and Reduce
 
+# [Ringpop(Dispatch system)](https://www.youtube.com/watch?v=OQyqJWQHp3g
