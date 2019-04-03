@@ -42,4 +42,6 @@
   * NoSQL is inflexible, but efficient
   * ideal 1 app <--> 1 table
   
+ # [Riak](https://en.wikipedia.org/wiki/Riak)
+  
   
