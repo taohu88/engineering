@@ -32,3 +32,7 @@
 
 # [Ringpop](https://www.youtube.com/watch?v=OQyqJWQHp3g)
 * Dispatch system
+* membership protocol
+* consistent hash ring of its memebers
+* forwarding as a convenience
+* on the top of Node.js
