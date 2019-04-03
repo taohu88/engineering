@@ -30,9 +30,8 @@
   * Master
   * Worker: Map and Reduce
 
-# [Ringpop](https://www.youtube.com/watch?v=OQyqJWQHp3g)
+# [Dispatch system: Ringpop](https://www.youtube.com/watch?v=OQyqJWQHp3g)
 * Gossip: SWIM gossip protocl
-* Dispatch system
 * membership protocol
 * consistent hash ring of its memebers
 * forwarding as a convenience
