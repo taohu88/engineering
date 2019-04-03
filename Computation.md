@@ -32,6 +32,8 @@
 
 # [Dispatch system: Ringpop](https://www.youtube.com/watch?v=OQyqJWQHp3g)
 * Gossip: [SWIM gossip protocl](https://www.cs.cornell.edu/projects/Quicksilver/public_pdfs/SWIM.pdf)
+* [farmhash](https://github.com/google/farmhash)
+* [tchannel](https://github.com/uber/tchannel)
 * membership protocol
 * consistent hash ring of its memebers
 * forwarding as a convenience
