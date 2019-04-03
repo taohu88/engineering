@@ -31,10 +31,9 @@
   * Worker: Map and Reduce
 
 # [Dispatch system: Ringpop](https://www.youtube.com/watch?v=OQyqJWQHp3g)
-* Gossip: [SWIM gossip protocl](https://www.cs.cornell.edu/projects/Quicksilver/public_pdfs/SWIM.pdf)
-* [farmhash](https://github.com/google/farmhash)
-* [tchannel](https://github.com/uber/tchannel)
-* membership protocol
+* membership protocal gossip: [SWIM gossip protocl](https://www.cs.cornell.edu/projects/Quicksilver/public_pdfs/SWIM.pdf)
 * consistent hash ring of its memebers
+  * [farmhash](https://github.com/google/farmhash)
+* [communication tchannel](https://github.com/uber/tchannel)
 * forwarding as a convenience
 * on the top of Node.js
