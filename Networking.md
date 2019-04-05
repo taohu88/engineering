@@ -11,7 +11,7 @@
 # [HTTP](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
 * [Http Header](https://www.youtube.com/watch?v=TNlcoYLIGFk)
 
-# TLS
+# [TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security)
 
 # Websocket
 * [Comparisons](https://blog.stanko.io/do-you-really-need-websockets-343aed40aa9b)
