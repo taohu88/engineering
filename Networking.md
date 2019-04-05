@@ -15,3 +15,4 @@
 
 # Websocket
 * [Comparisons](https://blog.stanko.io/do-you-really-need-websockets-343aed40aa9b)
+* [Server send event](https://www.smashingmagazine.com/2018/02/sse-websockets-data-flow-http2/)
