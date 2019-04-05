@@ -14,3 +14,4 @@
 # TLS
 
 # Websocket
+* [Comparisons](https://blog.stanko.io/do-you-really-need-websockets-343aed40aa9b)
