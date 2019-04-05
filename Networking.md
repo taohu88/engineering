@@ -16,3 +16,6 @@
 # Websocket
 * [Comparisons](https://blog.stanko.io/do-you-really-need-websockets-343aed40aa9b)
 * [Server send event](https://www.smashingmagazine.com/2018/02/sse-websockets-data-flow-http2/)
+
+# Downstream and Upstream
+* [Downstream depends on (or be affected by) Upstream just like river](https://stackoverflow.com/questions/18401861/upstream-and-downstream-definition)
